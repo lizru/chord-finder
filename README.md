@@ -1,6 +1,5 @@
 # chord-finder
 A simple Java program meant to learn foundational programming. Solves basic music theory exercises via the command line.
-One of my first personal coding projects, written with a focus on foundational Java syntax.
 
 *Initial Version*
 
